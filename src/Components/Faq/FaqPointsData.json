@@ -1,0 +1,125 @@
+{
+	"en": {
+		"heading": "Here you will find the most frequently asked questions about MRModPack.",
+		"points": [
+			{
+				"titleText": "Does MRModPack have a pvp bot?",
+				"descText": "No, we plan for MRModPack not to be a cheat mod but more of a fix to mope.io problems, with some improvements :)"
+			},
+			{
+				"titleText": "How can i download the newest version of MRModPack?",
+				"descText": "MRModPack is auto-updating, so you dont have to redownload it every update! The instructions are on the Installation page."
+			},
+			{
+				"titleText": "Is MRModPack free?",
+				"descText": "Yes, MRModPack is free."
+			},
+			{
+				"titleText": "Mope.io is not working with MRModPack loaded. What do i do?",
+				"descText": "Probably Mope.io had some update and MR Team have to update MRModPack to the newset version of the game. You can also report it on the Discord server."
+			},
+			{
+				"titleText": "Why MRModPack is not loading?",
+				"descText": "Make sure MRModPack is intalled correctly as shown in the Installation page. If you still have problems, ask for help on our Discord server"
+			},
+			{
+				"titleText": "How can i disable MRModPack?",
+				"descText": "Go to extensions panel (about://extensions) and turn off the mod."
+			},
+			{
+				"titleText": "Does MRModPack decrease performance?",
+				"descText": "It Shouldn’t. Fps should be around the same or a little bit worse, because it’s additional code loaded to the game, but you even shouldn’t even notice a difference."
+			},
+			{
+				"titleText": "I get an error while adding MRModPack folder to the extensions panel. What do i do?",
+				"descText": "Go to the Installation page. At the end are listed the most common problems, which you can meet. If you have a different error, ask for help on our Discord server."
+			},
+			{
+				"titleText": "I can’t unpack / unzip the mod folder, Is there any other way?",
+				"descText": "Search the internet for how to unpack a .zip folder on your operating system. I can tell you that, there are free programs, which should help you with this, for example 7-Zip."
+			}
+		]
+	},
+	"pl": {
+		"heading": "Tutaj znajdziesz najczęsciej zadawane pytania na temat MRModPacka.",
+		"points": [
+			{
+				"titleText": "Czy MRModPack ma pvp bota?",
+				"descText": "Nie, chcemy aby MRModPack nie był cheatem, ale bardziej naprawą problemów mope.io. z ulepszeniami :)"
+			},
+			{
+				"titleText": "Jak mogę pobrać najnowszą wersję MRModPack?",
+				"descText": "MRModPack aktualizuje się automatycznie, więc nie musisz go pobierać ponownie. Instrukcje są na zakładce instalacja"
+			},
+			{
+				"titleText": "Czy MRModPack jest za darmo?",
+				"descText": "Tak, MRModPack jest darmowy."
+			},
+			{
+				"titleText": "Dlaczego Mope.io nie działa z załadowanym MRModPackiem?",
+				"descText": "Mope.io prawdopodobnie miało aktualizacje i drużyna MR musi zaktualizować modyfikację do najnowszej wersji gry. Możes równierz zgłosić to na serwerze Discord."
+			},
+			{
+				"titleText": "Czemu MRModPack się nie ładuje?",
+				"descText": "Sprawdź czy poprawnie zainstalowałeś ModPack. Instrukcje są na zakładce instalacja, jeżeli nadal masz problemy poproś o pomoc na serwerze Discord."
+			},
+			{
+				"titleText": "Jak mogę wyłaczyć MRModPack'a?",
+				"descText": "Wejdź do zakładki rozszerzenia w przeglądarce (about://extensions) i wyłacz go."
+			},
+			{
+				"titleText": "Czy MRModPack pogarsza wydajność?",
+				"descText": "Nie powinen, Fps'y powinny być takie same lub delikatnie mniejsze, ponieważ ładujesz dodatkową zawartość do gry, lecz nie powinieneś nawet zobaczyć różnicy."
+			},
+			{
+				"titleText": "Dostje błąd gdy dodaje MRModPack'a do rozszerzeń, co mam zrobić?",
+				"descText": "Przejdź do sekcji instalacja, tam są najczęstsze problemy dotyczące instalacji, jeżeli nie ma twojego problemu tam, poproś o pomoc na naszym serwere Disocrd."
+			},
+			{
+				"titleText": "Nie mogę wypakować folderu z modem. Jest jakiś inny sposób?",
+				"descText": "Znajdź na internecie jak rozpakować plik .zip na twoim systemie operacyjnym. Mogę ci powiedzieć, że są darmowe programy, które powinny pomóc tobie z tym, na przykład 7-Zip."
+			}
+		]
+	},
+	"ru": {
+        "heading": "",
+		"points": [
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			},
+			{
+				"titleText": "",
+				"descText": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"en": [
+		{
+            "title": "Save session",
+            "desc": "Save your game session after disconnecting!"
+		},
+		{
+			"title": "Show wins",
+			"desc": "See other players ammount of wins!"
+		},
+		{
+			"title": "Accurate hp",
+			"desc": "See percentage value of others health!"
+		},
+		{
+			"title": "Track objects",
+			"desc": "Show trackers for specific objects!"
+		},
+		{
+			"title": "Track players",
+			"desc": "See the direction of other players on your screen!"
+		},
+		{
+			"title": "Chat hotkeys",
+			"desc": "Quickly send messages while playing!"
+		},
+		{
+			"title": "Zoom",
+			"desc": "See more (or less) of your surroundings!"
+		},
+		{
+			"title": "Transparent trees",
+			"desc": "See things covered by trees!"
+		},
+		{
+			"title": "Debug",
+			"desc": "See names of objects!"
+		},
+		{
+			"title": "Colored health",
+			"desc": "Make the health bar change color depending on its value!"
+		},
+		{
+			"title": "Draw hats",
+			"desc": "Add hats to animals!"
+		},
+		{
+			"title": "Show lava",
+			"desc": "See percentage value of others lava!"
+		},
+		{
+			"title": "Custom styles",
+			"desc": "Change the look of most elements!"
+		},
+		{
+			"title": "Copy names",
+			"desc": "Copy names of other players!"
+		}
+	],
+	"pl": [
+        {
+			"title": "Zapisz sesje",
+			"desc": "Nie trać sesji gry po rozłączeniu od serwara!"
+		},
+		{
+			"title": "Pokaż wygrane",
+			"desc": "Zobacz ile inni gracze mają wygranych!"
+		},
+		{
+			"title": "Dokładne hp",
+			"desc": "Zobacz innych hp w procentach!"
+		},
+		{
+			"title": "Pokaż objekty",
+			"desc": "Pokaż linie dla specyficznych obiektów!"
+		},
+        {
+            "title": "Skróty czatu",
+            "desc": "Szybko wysyłaj wiadomości podczas gry!"
+        },
+        {
+            "title": "Pokaż graczy",
+            "desc": "Zobacz strzałki w kierunku innych graczy!"
+        },
+        {
+            "title": "Przybliżenie",
+            "desc": "Zobacz więcej (lub mniej) swojego otoczenia!"
+        },
+        {
+            "title": "Przeźroczyste drzewa",
+            "desc": "Zobacz rzeczy zakryte przez drzewa!"
+        },
+		{
+            "title": "Debug",
+			"desc": "Zobbacz techniczne nazwy obiektów!"
+		},
+		{
+			"title": "Kolorowe hp",
+			"desc": "Pasek hp zmienia kolory w zależności od ilości hp!"
+		},
+		{
+			"title": "Czapki",
+			"desc": "Dodaj czapki do zwierząt!"
+		},
+		{
+			"title": "Dokładna lawa",
+			"desc": "Zobacz ilość lawy w procentach!"
+		},
+		{
+			"title": "Własne style",
+			"desc": "Zmień wygląd większości gry!"
+		},
+		{
+			"title": "Kopiowanie nazw",
+			"desc": "Skopiuj nazwy innych graczy!"
+		}
+	],
+	"ru": [
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		},
+		{
+			"title": "",
+			"desc": ""
+		}
+	]
+}

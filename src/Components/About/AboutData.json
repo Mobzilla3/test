@@ -1,0 +1,38 @@
+{
+"en": {
+    "heading": "What is MRModPack?",
+    "desc": "MRModPack is a mod for mope.io, ceated by Maxim Moper and later taken over by Mobzilla_3. This mod was not being developed for some time but now it’s back and this time it’s not a cheat mod, we removed PvP and auto play bots scripts. But it still has many options, which can improve your mope.io experience and also a lot of additional customizations, thanks to which you can adjust the game to your preferences :)",
+    "tabsDesc": "The mod has four tabs, <Tab backgroundColor='#3b781a' outlineColor='#0f5209' text='MAIN' /> is where you can manage most options by just checking checkboxes. You can also assign keybinds, rebind them in <Tab backgroundColor='#ad7610' outlineColor='#6b4704' text='HOTKEYS' /> . To set custom skins for animals go to <Tab backgroundColor='#cc143f' outlineColor='#940909' text='SKINS' /> , then find the animal you want and paste the new Url for the skin. Remember, the image must have .png at the end. <Tab backgroundColor='#075975' outlineColor='#024b63' text='CONSOLE' /> is usable by testers only.",
+    "devs": {
+        "CreatedBy": "Created by:",
+        "MainDev": "Main developer:",
+        "OriginalDev": "Original creator:",
+        "thanks": "Special thanks:",
+        "websiteDev": "Website creator:"
+    }
+},
+"pl": {
+    "heading": "Czym jest MRModPack?",
+    "desc": "MRModPack to modyfikacja mope.io, stworzona przez Maxima Mopera, a później przejęta przez Mobzilla_3. Ten mod nie był rozwijany przez jakiś czas, ale teraz powrócił i tym razem nie jest to mod do oszukiwania, usunęliśmy boty PvP i większość skryptów do automatycznego poruszania się. Ale nadal ma wiele opcji, które mogą poprawić twoje doświadczenia z mope.io, a także sporo dodatkowych personalizacji, dzięki którym dostosujesz grę do sowich upodonań :)",
+    "tabsDesc": "Mod ma cztery zakładki, <Tab backgroundColor='#3b781a' outlineColor='#0f5209' text='main' /> to zakładka, w której można zarządzać większością opcji, po prostu zaznaczając ptaszki. Możesz także przypisać skróty klawiszowe lub zmienić je w <Tab backgroundColor='#ad7610' outlineColor='#6b4704' text='hotkeys' /> . Aby ustawić własne skórki dla zwierząt, otwórz do <Tab backgroundColor='#cc143f' outlineColor='#940909' text='skins' /> , a następnie znajdź zwierzę którę chcesz i wklej nowy adres URL skórki. Pamiętaj, że obraz musi mieć .png na końcu. <Tab backgroundColor='#075975' outlineColor='#024b63' text='console' /> jest dostępna tylko dla testerów.",
+    "devs": {
+        "CreatedBy": "Stworzony przez:",
+        "MainDev": "Główny developer:",
+        "OriginalDev": "Twórca:",
+        "thanks": "Specjalnie podziękowania dla:",
+        "websiteDev": "Twórca strony:"
+    }
+},
+"ru": {
+    "heading": "",
+    "desc": "",
+    "tabsDesc": "",
+    "devs": {
+        "CreatedBy": "",
+        "MainDev": "",
+        "OriginalDev": "",
+        "thanks": "",
+        "websiteDev": ""
+    }
+}
+}

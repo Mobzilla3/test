@@ -1,0 +1,16 @@
+.button-anchor {
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    border-radius: 8px;
+    width: max-content;
+    height: max-content;
+}
+
+@media (max-width: 767px) {
+    .button-anchor {
+        display: none;
+    }
+}

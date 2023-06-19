@@ -1,0 +1,55 @@
+.features-steps-container {
+    display: grid;
+    gap: 50px;
+    width: 70vw;
+    margin-left: 10vw;
+}
+
+.step-heading {
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.step-desc {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.error-container {
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 80vw;
+    margin-left: 10vw;
+    font-size: 1.3rem;
+    margin-top: 30px;
+}
+
+.errors-images {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.errors-images > img {
+    width: 30vw;
+}
+
+.installation-mobile {
+    display: none;
+}
+
+@media (max-width: 500px) {
+    .installation-desktop {
+        display: none !important;
+    }
+
+    .installation-mobile {
+        display: block !important;
+        font-size: 1rem;
+        text-align: center;
+        margin-top: 10vh;
+    }
+}

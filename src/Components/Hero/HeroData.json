@@ -1,0 +1,29 @@
+{
+	"en": {
+		"heading": "Welcome to the MRModPack website.",
+		"buttons": {
+			"Features": "Features",
+			"Installation": "Installation",
+			"Faq": "Faq",
+			"About": "About"
+		}
+	},
+	"pl": {
+		"heading": "Witaj na stronie MRModPack.",
+		"buttons": {
+			"Features": "Funkcje",
+			"Installation": "Instalacja",
+			"Faq": "Faq",
+			"About": "O nas"
+		}
+	},
+	"ru": {
+		"heading": "",
+		"buttons": {
+			"Features": "",
+			"Installation": "",
+			"Faq": "",
+			"About": ""
+		}
+	}
+}

@@ -1,0 +1,43 @@
+.hero-content-container {
+    display: grid;
+    place-content: center;
+    height: calc(100vh - 200px);
+}
+
+.hero-video {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -99;
+    object-fit: cover;
+    filter: brightness(30%);
+}
+
+.hero-buttons {
+    margin-top: 30px;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100vw;
+    font-size: 25px;
+}
+
+#hero-heading {
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+@media (max-width: 768px) {
+    #hero-heading {
+        font-size: 2rem;   
+    }
+    .hero-buttons {
+        font-size: 14px;
+    }
+    .hero-button {
+        display: block !important;
+    }
+}

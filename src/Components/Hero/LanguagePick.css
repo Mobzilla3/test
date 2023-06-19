@@ -1,0 +1,58 @@
+.lang-picker-wrapper {
+    position: absolute;
+    top: 0;
+    padding-top: 120px;
+    width: 100vw;
+    height: calc(100vh - 120px);
+    background-image: url("/src/assets/grid.png");
+    z-index: 4;
+}
+
+.languagePick-wrapper {
+    display: grid;
+    place-content: center !important;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.language-flag {
+    width: 200px;
+    height: 100px;
+}
+
+.languages {
+    width: 100vw;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    align-self: center;
+    text-align: center;
+    column-gap: 30px;
+    row-gap: 30px;
+}
+
+.language {
+    transition: all 200ms;
+    cursor: pointer;
+}
+
+.language:hover {
+    transform: scale(110%);
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;        
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@media (min-wdith: 768px) {
+    .languagePick-heading {
+        font-size: 20px !important;
+    }
+}

@@ -1,0 +1,19 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 130px;
+}
+
+.banner-img {
+    height: 100%;
+    z-index: 5;
+}
+
+@media (max-width: 680px) {
+    .banner-img {
+        width: 80vw;
+        height: min-content;
+        place-self: center;
+    }
+}

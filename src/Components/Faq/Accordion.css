@@ -1,0 +1,41 @@
+.chevron-down {
+    margin-left: auto;
+    transition: transform 0.25s cubic-bezier(0, 0, 0, 1);
+    filter: invert(100%) sepia(6%) saturate(60%) hue-rotate(70deg) brightness(116%) contrast(100%);
+}
+
+.szh-accordion__item {
+    border-bottom: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.szh-accordion__item-btn {
+    cursor: pointer;
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    font-weight: 700;
+    font-family: Inter, sans-serif !important;
+    font-size: 1.5em;
+    color: white;
+    background-color: transparent;
+    border: none;
+    text-align: left !important;
+}
+
+.szh-accordion__item-content {
+    transition: height 0.25s cubic-bezier(0, 0, 0, 1);
+}
+
+.szh-accordion__item-panel {
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+
+.szh-accordion__item--expanded .chevron-down {
+    transform: rotate(180deg);
+}

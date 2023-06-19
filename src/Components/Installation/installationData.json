@@ -1,0 +1,115 @@
+{
+	"en": {
+		"step1": {
+			"h1": "Step 1",
+			"desc": "Join the MRModPack Discord server and download the mod from #👑・mrmodpack"
+		},
+		"Step2": {
+			"h1": "Step 2",
+			"desc": "Unpack the zip file (do not open the folder!)."
+		},
+		"Step3": {
+			"h1": "Step 3",
+			"desc": "Open extensions panel in your browser (about://extensions)"
+		},
+		"Step4": {
+			"h1": "Step 4",
+			"desc": "Turn on developer mode to be able to load extensions."
+		},
+		"Step5": {
+			"h1": "Step 5",
+			"desc": "Add the unpacked MRModPack to extensions. You can do this by clicking load unpacked, then searching mod folder or by move and drop"
+		},
+		"finalStep": {
+			"h1": "Final step",
+			"desc": "Open mope.io and have fun 🎉"
+		},
+		"errors": {
+			"heading": "Errors while Installing",
+			"thumbsdb": {
+				"h1": "Cannot load extension with file Thumbs.db (or other)",
+				"desc": "Your operating system generated a Thumbs.db file, which usually happens when there are photos in a folder and a preview is shown. You can’t have this file while adding mod folder as a extension, to fix that: Find MRModPack folder, open it and find file named Thumbs.db. If you dont see this file, enable Hide elemtents, in View tab in your explorer. "
+			},
+			"manifest": {
+				"h1": "Manifest version 2 is depracted",
+				"desc": "This error won’t break anything, it tells us that manifest version 2 is no longer supported. Everyone sees this error for now, so you do not have to worry, MRModPack will be working fine :)"
+			}
+		},
+        "mobile": "MRModPack works only on pc, come back on a computer."
+	},
+	"pl": {
+		"step1": {
+			"h1": "Krok 1",
+			"desc": "Dołącz na serwer Discord MRModPack i pobierz moda z #👑・mrmodpack."
+		},
+		"Step2": {
+			"h1": "Krok 2",
+			"desc": "Wypakuj zawartość (nie otwieraj folderu!)"
+		},
+		"Step3": {
+			"h1": "Krok 3",
+			"desc": "Wejdź w rozszerzenia (about://extensions)."
+		},
+		"Step4": {
+			"h1": "Krok 4",
+			"desc": "Włącz tryb developera."
+		},
+		"Step5": {
+			"h1": "Krok 5",
+			"desc": "Dodaj wypakowany MRModpack do rozszerzeń. Mozesz to zrobić naciskając załaduj rozpakowane, następnie odszukując folder z modem lub poprzez przeciągnięcie i upuszczenie."
+		},
+		"finalStep": {
+			"h1": "Ostatni krok",
+			"desc": "Otwórz mope.io, miłej gry🎉"
+		},
+		"errors": {
+			"heading": "Częste błędy podczas instalacji",
+			"thumbsdb": {
+				"h1": "Nie można załadować roszerzenia z plikiem Thumbs.db (lub innym) [Cannot load extension with file Thumbs.db]",
+				"desc": "Twój system utworzył plik do przechowywania minaturek w ekspoloratorze, tego pliku nie może być w folderze, inaczej rzoszerzenie się nie załaduje. Aby to naprawić : Znajdź folder MRModPack, otwórz go i znaajdź plik nazwany Thumbs.db. Jeśli go nie widzisz włącz Ukryte elementy, w zakładce widok w twoim exploatorze plików"
+			},
+			"manifest": {
+				"h1": "Manifest wersja 2 jest przestarzały [Manifest version 2 is depracted]",
+				"desc": "Ten błąd niczym nie szkodzi, informuje nas o nowszej wersji manifestu, na którą w przyszłości przejdziemy :)"
+			}
+		},
+		"mobile": "MRModPack działa tylko na komputerze, wróc tutaj na pc."
+	},
+	"ru": {
+		"step1": {
+			"h1": "Шаг 1",
+			"desc": "Вступите в MRModPack дискорд сервер и скачайте мод в #👑・mrmodpack."
+		},
+		"Step2": {
+			"h1": "Шаг 2",
+			"desc": "Распакуйте zip файл (Не открывайте папку с файлом!)."
+		},
+		"Step3": {
+			"h1": "Шаг 3",
+			"desc": "Откройте расширения в вашем браузере (about://extensions)."
+		},
+		"Step4": {
+			"h1": "Шаг 4",
+			"desc": "Включите режим разработчика чтобы вы смогли загрузить расширение."
+		},
+		"Step5": {
+			"h1": "Шаг 5",
+			"desc": "Добавить распакованный MRModPack в расширения. Вы можете сделать это кликая загрузить без установки, и затем найдите папку с модом, или зажмите файл и 'скиньте' туда."
+		},
+		"finalStep": {
+			"h1": "Последний Шаг",
+			"desc": "Откройте mope.io и наслаждайтесь игрой🎉"
+		},
+		"errors": {
+			"heading": "Ошибки во время установки",
+			"thumbsdb": {
+				"h1": "Не удается разрузить расширение с файлом с именем Thumbs.db (иди другие) [Cannot load extension with file Thumbs.db].",
+				"desc": "Ваша операционная система должна была добавить файл Thumbs.db, в котором хранятся эскизы фотографий для более быстрого чтения. Но вы не можете иметь этот файл при добавлении папки мода в качестве расширения, чтобы исправить это: Найдите папку с  MRModPack, откройте её и найдите файл с именемThumbs.db. Если вы не видите файл, включите 'hide elements' на вкладке «Вид» в проводнике."
+			},
+			"manifest": {
+				"h1": "Манифест версии 2 устарел pManifest version 2 is depracted]",
+				"desc": "Эта ошибка не опасна, она лишь говорит нам о том, что существует более новая версия манифеста для расширений, и эту ошибку видят все. Так что вам не о чем беспокоиться. MRModPack будет работать нормально 🙂 "
+			}
+		}
+	}
+}

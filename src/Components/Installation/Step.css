@@ -1,0 +1,14 @@
+.step-container {
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+}
+
+.step-image {
+    width: 40vw;
+    border-radius: 10px;
+}
+
+.step-text {
+    width: 40vw;
+}
